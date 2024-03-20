@@ -1,0 +1,30 @@
+h1 {
+    font-size: 24px; /*ajusta el tamaño de fuente*/
+}
+h2 {
+    font-size: 1rem; /*ajusta el tamaño de fuente*/
+}
+h3{
+    font-size: 1.75rem; /*ajusta el tamaño de fuente*/
+}
+h4{
+    font-size: 1.5rem; /*ajusta el tamaño de fuente*/
+}
+h5{
+    font-size: 1.25rem; /*ajusta el tamaño de fuente*/
+}
+h6{
+    font-size: 1.05rem; /*ajusta el tamaño de fuente*/
+}
+.contenedor {
+    width: 70%; /*ajusta el ancho del elemento*/
+    height: 400px; /*ajusta el alto del elemento*/
+    background-color: aqua; /*asigna un color de fondo al elemento*/
+    margin: 30px auto; /*asigna un margen al elemento en cuestión*/
+}
+.hijo {
+    width: 70vw; /*ajusta el ancho del elemento en cuanto al ancho total de pantalla*/
+    height: 50vh; /*ajusta el alto del elemento en cuanto al alto total de pantalla*/
+    background-color: red; /*asigna un color de fondo al elemento*/
+    margin: 30px auto; /*asigna un margen al elemento en cuestión*/
+}
